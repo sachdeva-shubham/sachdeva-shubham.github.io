@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/shubham.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'ba1eb4a3d2.js'
 
 author:
   name: 'Shubham Sachdeva'
