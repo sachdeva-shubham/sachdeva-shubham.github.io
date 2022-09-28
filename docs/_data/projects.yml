@@ -1,30 +1,30 @@
 # projects section data
 - name: Alexa Teacher Model
-  gh_user: n/a
+  gh_user: na
   repo: Private
   desc: Contact me to know more!
-  img: /images/model.png
+  img: https://raw.githubusercontent.com/magiclko/magiclko.github.io/main/docs/images/model.jpg
 
 - name: Global English Model
-  gh_user: n/a
+  gh_user: na
   repo: Private
   desc: Contact me to know more!
-  img: /images/model.png
+  img: https://raw.githubusercontent.com/magiclko/magiclko.github.io/main/docs/images/model.jpg
 
 - name: Automated slot releases
-  gh_user: n/a
+  gh_user: na
   repo: Private
   desc: Contact me to know more!
-  img: /images/model.png
+  img: https://raw.githubusercontent.com/magiclko/magiclko.github.io/main/docs/images/model.jpg
 
 - name: Data egress and validation system
-  gh_user: n/a
+  gh_user: na
   repo: Private
   desc: Contact me to know more!
-  img: /images/model.png
+  img: https://raw.githubusercontent.com/magiclko/magiclko.github.io/main/docs/images/model.jpg
 
 - name: Telephony solution for Assosciates
-  gh_user: n/a
+  gh_user: na
   repo: Private
   desc: Contact me to know more!
-  img: /images/model.png
+  img: https://raw.githubusercontent.com/magiclko/magiclko.github.io/main/docs/images/model.jpg
