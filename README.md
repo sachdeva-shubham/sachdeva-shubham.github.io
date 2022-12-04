@@ -1,2 +1,2 @@
-# magiclko.github.io
+# sachdeva-shubham.github.io
 Github page for Shubham Sachdeva
